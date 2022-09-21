@@ -1,0 +1,7 @@
+name: msa
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - muscle=5.1
